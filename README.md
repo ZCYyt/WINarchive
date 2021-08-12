@@ -1,2 +1,3 @@
 # WINarchive
-ZCY's Windows Archive | (c) ZCY 2021
+ZCY's Windows Archive
+WARNING: No realease yet
